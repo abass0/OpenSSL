@@ -1,6 +1,5 @@
 # Ansible weareinteractive.openssl role
 
-[![Build Status](https://img.shields.io/travis/weareinteractive/ansible-openssl.svg)](https://travis-ci.org/weareinteractive/ansible-openssl)
 [![Galaxy](http://img.shields.io/badge/galaxy-weareinteractive.openssl-blue.svg)](https://galaxy.ansible.com/weareinteractive/openssl)
 [![GitHub Tags](https://img.shields.io/github/tag/weareinteractive/ansible-openssl.svg)](https://github.com/weareinteractive/ansible-openssl)
 [![GitHub Stars](https://img.shields.io/github/stars/weareinteractive/ansible-openssl.svg)](https://github.com/weareinteractive/ansible-openssl)
