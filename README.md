@@ -1,9 +1,5 @@
 # Ansible weareinteractive.openssl role
 
-[![Galaxy](http://img.shields.io/badge/galaxy-weareinteractive.openssl-blue.svg)](https://galaxy.ansible.com/weareinteractive/openssl)
-[![GitHub Tags](https://img.shields.io/github/tag/weareinteractive/ansible-openssl.svg)](https://github.com/weareinteractive/ansible-openssl)
-[![GitHub Stars](https://img.shields.io/github/stars/weareinteractive/ansible-openssl.svg)](https://github.com/weareinteractive/ansible-openssl)
-
 > `weareinteractive.openssl` is an [Ansible](http://www.ansible.com) role which:
 >
 > * installs openssl
